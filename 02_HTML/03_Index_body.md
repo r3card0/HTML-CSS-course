@@ -4,6 +4,11 @@
 
 ## de contenido: lleva videos, imágenes, texto o lo que renderize
 
+para crear parrafos <p></p>
+para crear encabezados <h1></h1>
+hay desde h1 al h6
+<a href="#">Soy un link</a> permite realizar hipervinculos
+
 ## Etiquetas contenedoras
 Es el layout del proyecto. Maquetación. Del header, main al footer.
 
@@ -29,3 +34,5 @@ En main, se puede agregar listas ordenadas o desordenadas:
 ### footer 
 
 ### <div></div>
+
+Es buena practica usar HTML semantico 5.
