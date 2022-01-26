@@ -3,21 +3,29 @@
 ## Web Developer Fundamentals
 
 ## HTML
-- HTML:anatomy
-- Index:head
-- Index:body
-- Anatomía de una etiqueta en HTML
+- HTML: anatomy
+- Index: head
+- Index: body
+- Tag anatomy -> HTML
 
-## Etiquetas Multimedias
+### Etiquetas Multimedias
 - Tipos de Imágenes
 - Optimización de imágenes
-- Etiqueta img
-- Etiqueta figure
-- Etiqueta video
+- Tag img
+- Tag figure
+- Tag video
 
-## Formularios
-- Etiquetas: form e input
+### Formularios
+- Tags: forms & input
 - Calendar
 - Autocomplete y require
 - Select
 - Input type submit vs Button tag
+
+## CSS
+- CSS definition
+- How to reference tags
+- Pseudo class and Pseudo element
+- CSS rule anatomy
+- Box model
+- Inheritance
