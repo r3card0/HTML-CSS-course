@@ -4,6 +4,9 @@
 
 Es un valor dentro de la propiedad *display*  que permite modificar a los contenedores de forma flexible. *flex*
 
+¿En qué nos ayuda 'display: flex'?
+ordenar y distribuir los elementos de un contenedor horizontal y verticalmente
+
 `````
 .container {
     border: 0.3rem solid black;
@@ -15,7 +18,7 @@ Permite que los elementos se bajen a la siguiente linea cuando ya no tengan espa
 
 ![flex-wrap](/Doc/images/flex-wrap.png)
 
-```
+````
 .container {
     border: 0.3rem solid black;
     display: flex;
@@ -63,7 +66,9 @@ space-evenly: deja los espacios iguales
     
 }
 ````
+
 ## Flex Box
+
 
 ````
 .container {

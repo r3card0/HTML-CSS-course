@@ -108,7 +108,7 @@ Selector universal *
     padding: 0;
     margin: 0;
 }
-````
+```
 - Sirve para quitar los espacios
 - Le quita el scroll de la pantalla, calculando automáticamente el tamaño del elemento con el padding y el border para que la caja tome el tamaño de la pantalla y no genere barras de scroll 😌
 

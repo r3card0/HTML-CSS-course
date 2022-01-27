@@ -75,3 +75,5 @@ Permite usar funciones de inline y block.
 - Inline: tomara espacio de su contenido
 - Block: se podra usar padding arriba y abajo y se puede usar el widht y el height
 Etiqueta <ul>
+
+Qué tipo de display se debe utilizar si se requiere mantener los elementos de form horizontal -> iniline o inline-block: ambos tienen resultados dierentes
