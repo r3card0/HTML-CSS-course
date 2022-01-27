@@ -63,3 +63,42 @@ space-evenly: deja los espacios iguales
     
 }
 ````
+## Flex Box
+
+````
+.container {
+    border: 0.3rem solid black;
+    display: flex;
+    align-items: flex-start;
+    height: 50vh;
+       
+}
+````
+align-items: flex-start;
+align-items: flex-end;
+align-items: stretch;
+align-items: baseline;
+
+Se le puede dar orden a los contenedores, con la propierad: order
+
+````
+.box1 {
+    background-color: aquamarine;
+    order: 1;
+}
+```
+
+*disclaimer*: Los contenedores que se les easigne un roden con la propiedad order, se ordenaran pegados a la izquierda. Los contenedores que no se les aplique la propiedad order, se pasaran todos a la izquierda.
+
+### flex-grow
+
+permite al contener crecer las posiciones indicadas
+
+````
+.box1 {
+    background-color: aquamarine;
+    flex-grow: 1;    
+}
+````
+flex-grow: 1; 
+
