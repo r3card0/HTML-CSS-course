@@ -1,0 +1,24 @@
+/* * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+} */
+
+.block-element {
+    background-color: bisque;
+    margin: 10px;
+    padding: 20px;
+}
+.nav {
+    background-color: blueviolet;
+    padding: 20px;
+    list-style: none;
+    text-align: center;
+}
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
