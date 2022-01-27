@@ -22,6 +22,13 @@ Es darle un estilo visual al html
 <link rel="stylesheet" href="./style.css">
 ```
 
+### ¿Cuál es la sintaxis de CSS?
+Un conjunto de reglas CSS consta de un selector y un bloque de declaración. Cada declaración incluye un nombre de propiedad CSS y un valor, separados por dos puntos. Una declaración CSS siempre termina con un punto y coma, y los bloques de declaración están rodeados por llaves.
+
+> Sintaxis: Selector {propiedad: valor}
+
+
+
 ##  Practicas no recomendadas
 
 Poner estilos en el archivo de html:
@@ -106,10 +113,4 @@ Selector universal *
 - Le quita el scroll de la pantalla, calculando automáticamente el tamaño del elemento con el padding y el border para que la caja tome el tamaño de la pantalla y no genere barras de scroll 😌
 
 Por lo tanto, siempre siempre siempre hay que agregar el selector universal a todas las hojas de stilo, para mantener esta buena práctica.
-
-## Herencia
-
-> La herencia es el código CSS que se va pasar de un padre a un hijo.
-
-
 
