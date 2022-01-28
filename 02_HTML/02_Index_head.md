@@ -37,3 +37,7 @@ es la fabulosa linea que hace que la pagina se vea en la escale de una compu o t
   En body contiene todo lo visual para el usarios, textos, fotos, videos 
   Piernas, brazos, dorso
 
+
+[tags](https://allthetags.com/)
+
+[Tiny](https://tinypng.com/)
