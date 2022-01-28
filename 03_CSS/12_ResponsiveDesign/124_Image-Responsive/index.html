@@ -9,9 +9,11 @@
 </head>
 <body>
     <main>
-        <div class="picture">
-            <img src="./imgs/motorcycle.jpeg" alt="">
-        </div>
+        <picture>
+            <source media="(min-width: 1300px)" srcset="./imgs/motorcycle-big.jpeg">
+            <source media="(min-width: 1000px)" srcset="./imgs/motorcycle-medium.jpeg">
+            <img src="./imgs/motorcycle-small.jpeg" alt="Ejemplo">
+        </picture>
     </main>
 </body>
 </html>
