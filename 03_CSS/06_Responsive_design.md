@@ -9,6 +9,8 @@ Saber que son los Media queries y los break points
 
  - Los media queries son: mobile first / only
 
+ ## Mobil first
+
  mobile first - se comienza a trabajr desde un dispositivo mobil y despues para una compu o laptop
  only - Solo para dispositivos mobiles
 
@@ -22,4 +24,10 @@ Saber que son los Media queries y los break points
 
  Para implementar un media query:
 
- 
+ ## Layout Shifter
+
+
+ ## Column Drop
+
+ ![column drop](/Doc/images/drop-column.png)
+
